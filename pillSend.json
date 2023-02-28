@@ -1,6 +1,6 @@
 {
-  "PatientUn" = "",
-  "Name" = "",
+  "PatientUn":"perseus321",
+  "Name":"Perseus",
   "PillName" = ["PillName","PillName"],
   "PillTimings" = ["10:00", "12:00"],
   "PillAmount" = ["20", "10"]
