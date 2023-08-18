@@ -1,3 +1,2 @@
-{
-  "foodName":["Chicken Omelette","Butter Chicken","Pumpkin Fried Bee Hoon","Vegetable Tofu Dumpling","Turmeric Chicken with french bean","Beef Rendang"]
-}
+
+[{'food1', "Chicken Omelette"}, {'food2', "Butter Chicken"}, {'food3', "Pumpkin Fried Bee Hoon"}, {'food4', "Vegetable Tofu Dumpling"}, {'food5', "Turmeric Chicken with french bean"}, {'food6', "Beef Rendang"}]
